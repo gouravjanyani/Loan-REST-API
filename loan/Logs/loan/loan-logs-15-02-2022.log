@@ -1,0 +1,282 @@
+[15-02-2022 00:05:47.047][INFO ][org.hibernate.validator.internal.util.Version][background-preinit][21]HV000001: Hibernate Validator 6.2.0.Final
+[15-02-2022 00:05:47.047][INFO ][org.springframework.boot.StartupInfoLogger][restartedMain][55]Starting LoanApplication using Java 1.8.0_171 on Jayeshs-MacBook-Air.local with PID 40822 (/Users/jayeshjanyani/Desktop/Organisation/Checklyst Solutions/assignment/loan/target/classes started by jayeshjanyani in /Users/jayeshjanyani/Desktop/Organisation/Checklyst Solutions/assignment/loan)
+[15-02-2022 00:05:47.047][INFO ][org.springframework.boot.SpringApplication][restartedMain][637]No active profile set, falling back to default profiles: default
+[15-02-2022 00:05:49.049][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Initializing ProtocolHandler ["http-nio-8080"]
+[15-02-2022 00:05:49.049][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Starting service [Tomcat]
+[15-02-2022 00:05:49.049][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Starting Servlet engine: [Apache Tomcat/9.0.56]
+[15-02-2022 00:05:49.049][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Initializing Spring embedded WebApplicationContext
+[15-02-2022 00:05:49.049][INFO ][org.hibernate.jpa.internal.util.LogHelper][restartedMain][31]HHH000204: Processing PersistenceUnitInfo [name: default]
+[15-02-2022 00:05:49.049][INFO ][org.hibernate.Version][restartedMain][44]HHH000412: Hibernate ORM core version 5.6.4.Final
+[15-02-2022 00:05:49.049][INFO ][org.hibernate.annotations.common.reflection.java.JavaReflectionManager][restartedMain][56]HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[15-02-2022 00:05:49.049][INFO ][com.zaxxer.hikari.HikariDataSource][restartedMain][110]HikariPool-1 - Starting...
+[15-02-2022 00:05:50.050][INFO ][com.zaxxer.hikari.HikariDataSource][restartedMain][123]HikariPool-1 - Start completed.
+[15-02-2022 00:05:50.050][INFO ][org.hibernate.dialect.Dialect][restartedMain][175]HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+[15-02-2022 00:05:50.050][INFO ][org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator][restartedMain][52]HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[15-02-2022 00:05:52.052][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Starting ProtocolHandler ["http-nio-8080"]
+[15-02-2022 00:05:52.052][INFO ][org.springframework.boot.StartupInfoLogger][restartedMain][61]Started LoanApplication in 5.104 seconds (JVM running for 6.063)
+[15-02-2022 00:05:55.055][INFO ][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-2][173]Initializing Spring DispatcherServlet 'dispatcherServlet'
+[15-02-2022 00:07:43.043][INFO ][com.zaxxer.hikari.HikariDataSource][Thread-7][350]HikariPool-1 - Shutdown initiated...
+[15-02-2022 00:07:43.043][INFO ][com.zaxxer.hikari.HikariDataSource][Thread-7][352]HikariPool-1 - Shutdown completed.
+[15-02-2022 00:07:44.044][INFO ][org.springframework.boot.StartupInfoLogger][restartedMain][55]Starting LoanApplication using Java 1.8.0_171 on Jayeshs-MacBook-Air.local with PID 40822 (/Users/jayeshjanyani/Desktop/Organisation/Checklyst Solutions/assignment/loan/target/classes started by jayeshjanyani in /Users/jayeshjanyani/Desktop/Organisation/Checklyst Solutions/assignment/loan)
+[15-02-2022 00:07:44.044][INFO ][org.springframework.boot.SpringApplication][restartedMain][637]No active profile set, falling back to default profiles: default
+[15-02-2022 00:07:44.044][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Initializing ProtocolHandler ["http-nio-8080"]
+[15-02-2022 00:07:44.044][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Starting service [Tomcat]
+[15-02-2022 00:07:44.044][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Starting Servlet engine: [Apache Tomcat/9.0.56]
+[15-02-2022 00:07:44.044][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Initializing Spring embedded WebApplicationContext
+[15-02-2022 00:07:44.044][INFO ][org.hibernate.jpa.internal.util.LogHelper][restartedMain][31]HHH000204: Processing PersistenceUnitInfo [name: default]
+[15-02-2022 00:07:45.045][INFO ][com.zaxxer.hikari.HikariDataSource][restartedMain][110]HikariPool-2 - Starting...
+[15-02-2022 00:07:45.045][INFO ][com.zaxxer.hikari.HikariDataSource][restartedMain][123]HikariPool-2 - Start completed.
+[15-02-2022 00:07:45.045][INFO ][org.hibernate.dialect.Dialect][restartedMain][175]HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+[15-02-2022 00:07:45.045][INFO ][org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator][restartedMain][52]HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[15-02-2022 00:07:45.045][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Starting ProtocolHandler ["http-nio-8080"]
+[15-02-2022 00:07:45.045][INFO ][org.springframework.boot.StartupInfoLogger][restartedMain][61]Started LoanApplication in 1.15 seconds (JVM running for 119.343)
+[15-02-2022 00:07:45.045][INFO ][com.zaxxer.hikari.HikariDataSource][RMI TCP Connection(11)-127.0.0.1][350]HikariPool-2 - Shutdown initiated...
+[15-02-2022 00:07:45.045][INFO ][com.zaxxer.hikari.HikariDataSource][RMI TCP Connection(11)-127.0.0.1][352]HikariPool-2 - Shutdown completed.
+[15-02-2022 00:07:52.052][INFO ][org.hibernate.validator.internal.util.Version][background-preinit][21]HV000001: Hibernate Validator 6.2.0.Final
+[15-02-2022 00:07:52.052][INFO ][org.springframework.boot.StartupInfoLogger][restartedMain][55]Starting LoanApplication using Java 1.8.0_171 on Jayeshs-MacBook-Air.local with PID 40960 (/Users/jayeshjanyani/Desktop/Organisation/Checklyst Solutions/assignment/loan/target/classes started by jayeshjanyani in /Users/jayeshjanyani/Desktop/Organisation/Checklyst Solutions/assignment/loan)
+[15-02-2022 00:07:52.052][INFO ][org.springframework.boot.SpringApplication][restartedMain][637]No active profile set, falling back to default profiles: default
+[15-02-2022 00:07:54.054][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Initializing ProtocolHandler ["http-nio-8080"]
+[15-02-2022 00:07:54.054][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Starting service [Tomcat]
+[15-02-2022 00:07:54.054][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Starting Servlet engine: [Apache Tomcat/9.0.56]
+[15-02-2022 00:07:54.054][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Initializing Spring embedded WebApplicationContext
+[15-02-2022 00:07:55.055][INFO ][org.hibernate.jpa.internal.util.LogHelper][restartedMain][31]HHH000204: Processing PersistenceUnitInfo [name: default]
+[15-02-2022 00:07:55.055][INFO ][org.hibernate.Version][restartedMain][44]HHH000412: Hibernate ORM core version 5.6.4.Final
+[15-02-2022 00:07:55.055][INFO ][org.hibernate.annotations.common.reflection.java.JavaReflectionManager][restartedMain][56]HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[15-02-2022 00:07:55.055][INFO ][com.zaxxer.hikari.HikariDataSource][restartedMain][110]HikariPool-1 - Starting...
+[15-02-2022 00:07:55.055][INFO ][com.zaxxer.hikari.HikariDataSource][restartedMain][123]HikariPool-1 - Start completed.
+[15-02-2022 00:07:56.056][INFO ][org.hibernate.dialect.Dialect][restartedMain][175]HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+[15-02-2022 00:07:56.056][INFO ][org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator][restartedMain][52]HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[15-02-2022 00:07:58.058][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Starting ProtocolHandler ["http-nio-8080"]
+[15-02-2022 00:07:58.058][INFO ][org.springframework.boot.StartupInfoLogger][restartedMain][61]Started LoanApplication in 6.655 seconds (JVM running for 8.177)
+[15-02-2022 00:08:03.003][INFO ][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-1][173]Initializing Spring DispatcherServlet 'dispatcherServlet'
+[15-02-2022 00:09:15.015][INFO ][com.zaxxer.hikari.HikariDataSource][Thread-7][350]HikariPool-1 - Shutdown initiated...
+[15-02-2022 00:09:15.015][INFO ][com.zaxxer.hikari.HikariDataSource][Thread-7][352]HikariPool-1 - Shutdown completed.
+[15-02-2022 00:09:16.016][INFO ][org.springframework.boot.StartupInfoLogger][restartedMain][55]Starting LoanApplication using Java 1.8.0_171 on Jayeshs-MacBook-Air.local with PID 40960 (/Users/jayeshjanyani/Desktop/Organisation/Checklyst Solutions/assignment/loan/target/classes started by jayeshjanyani in /Users/jayeshjanyani/Desktop/Organisation/Checklyst Solutions/assignment/loan)
+[15-02-2022 00:09:16.016][INFO ][org.springframework.boot.SpringApplication][restartedMain][637]No active profile set, falling back to default profiles: default
+[15-02-2022 00:09:16.016][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Initializing ProtocolHandler ["http-nio-8080"]
+[15-02-2022 00:09:16.016][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Starting service [Tomcat]
+[15-02-2022 00:09:16.016][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Starting Servlet engine: [Apache Tomcat/9.0.56]
+[15-02-2022 00:09:16.016][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Initializing Spring embedded WebApplicationContext
+[15-02-2022 00:09:17.017][INFO ][org.hibernate.jpa.internal.util.LogHelper][restartedMain][31]HHH000204: Processing PersistenceUnitInfo [name: default]
+[15-02-2022 00:09:17.017][INFO ][com.zaxxer.hikari.HikariDataSource][restartedMain][110]HikariPool-2 - Starting...
+[15-02-2022 00:09:17.017][INFO ][com.zaxxer.hikari.HikariDataSource][restartedMain][123]HikariPool-2 - Start completed.
+[15-02-2022 00:09:17.017][INFO ][org.hibernate.dialect.Dialect][restartedMain][175]HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+[15-02-2022 00:09:17.017][INFO ][org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator][restartedMain][52]HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[15-02-2022 00:09:17.017][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Starting ProtocolHandler ["http-nio-8080"]
+[15-02-2022 00:09:17.017][INFO ][org.springframework.boot.StartupInfoLogger][restartedMain][61]Started LoanApplication in 1.484 seconds (JVM running for 87.347)
+[15-02-2022 00:09:22.022][INFO ][com.zaxxer.hikari.HikariDataSource][Thread-13][350]HikariPool-2 - Shutdown initiated...
+[15-02-2022 00:09:22.022][INFO ][com.zaxxer.hikari.HikariDataSource][Thread-13][352]HikariPool-2 - Shutdown completed.
+[15-02-2022 00:09:22.022][INFO ][org.springframework.boot.StartupInfoLogger][restartedMain][55]Starting LoanApplication using Java 1.8.0_171 on Jayeshs-MacBook-Air.local with PID 40960 (/Users/jayeshjanyani/Desktop/Organisation/Checklyst Solutions/assignment/loan/target/classes started by jayeshjanyani in /Users/jayeshjanyani/Desktop/Organisation/Checklyst Solutions/assignment/loan)
+[15-02-2022 00:09:22.022][INFO ][org.springframework.boot.SpringApplication][restartedMain][637]No active profile set, falling back to default profiles: default
+[15-02-2022 00:09:23.023][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Initializing ProtocolHandler ["http-nio-8080"]
+[15-02-2022 00:09:23.023][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Starting service [Tomcat]
+[15-02-2022 00:09:23.023][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Starting Servlet engine: [Apache Tomcat/9.0.56]
+[15-02-2022 00:09:23.023][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Initializing Spring embedded WebApplicationContext
+[15-02-2022 00:09:23.023][INFO ][org.hibernate.jpa.internal.util.LogHelper][restartedMain][31]HHH000204: Processing PersistenceUnitInfo [name: default]
+[15-02-2022 00:09:23.023][INFO ][com.zaxxer.hikari.HikariDataSource][restartedMain][110]HikariPool-3 - Starting...
+[15-02-2022 00:09:23.023][INFO ][com.zaxxer.hikari.HikariDataSource][restartedMain][123]HikariPool-3 - Start completed.
+[15-02-2022 00:09:23.023][INFO ][org.hibernate.dialect.Dialect][restartedMain][175]HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+[15-02-2022 00:09:23.023][INFO ][org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator][restartedMain][52]HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[15-02-2022 00:09:23.023][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Starting ProtocolHandler ["http-nio-8080"]
+[15-02-2022 00:09:23.023][INFO ][org.springframework.boot.StartupInfoLogger][restartedMain][61]Started LoanApplication in 1.312 seconds (JVM running for 93.422)
+[15-02-2022 00:09:24.024][INFO ][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-2][173]Initializing Spring DispatcherServlet 'dispatcherServlet'
+[15-02-2022 00:11:08.008][INFO ][com.zaxxer.hikari.HikariDataSource][Thread-17][350]HikariPool-3 - Shutdown initiated...
+[15-02-2022 00:11:08.008][INFO ][com.zaxxer.hikari.HikariDataSource][Thread-17][352]HikariPool-3 - Shutdown completed.
+[15-02-2022 00:11:08.008][INFO ][org.springframework.boot.StartupInfoLogger][restartedMain][55]Starting LoanApplication using Java 1.8.0_171 on Jayeshs-MacBook-Air.local with PID 40960 (/Users/jayeshjanyani/Desktop/Organisation/Checklyst Solutions/assignment/loan/target/classes started by jayeshjanyani in /Users/jayeshjanyani/Desktop/Organisation/Checklyst Solutions/assignment/loan)
+[15-02-2022 00:11:08.008][INFO ][org.springframework.boot.SpringApplication][restartedMain][637]No active profile set, falling back to default profiles: default
+[15-02-2022 00:11:09.009][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Initializing ProtocolHandler ["http-nio-8080"]
+[15-02-2022 00:11:09.009][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Starting service [Tomcat]
+[15-02-2022 00:11:09.009][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Starting Servlet engine: [Apache Tomcat/9.0.56]
+[15-02-2022 00:11:09.009][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Initializing Spring embedded WebApplicationContext
+[15-02-2022 00:11:09.009][INFO ][org.hibernate.jpa.internal.util.LogHelper][restartedMain][31]HHH000204: Processing PersistenceUnitInfo [name: default]
+[15-02-2022 00:11:09.009][INFO ][com.zaxxer.hikari.HikariDataSource][restartedMain][110]HikariPool-4 - Starting...
+[15-02-2022 00:11:09.009][INFO ][com.zaxxer.hikari.HikariDataSource][restartedMain][123]HikariPool-4 - Start completed.
+[15-02-2022 00:11:09.009][INFO ][org.hibernate.dialect.Dialect][restartedMain][175]HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+[15-02-2022 00:11:09.009][INFO ][org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator][restartedMain][52]HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[15-02-2022 00:11:09.009][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Starting ProtocolHandler ["http-nio-8080"]
+[15-02-2022 00:11:09.009][INFO ][org.springframework.boot.StartupInfoLogger][restartedMain][61]Started LoanApplication in 0.997 seconds (JVM running for 199.409)
+[15-02-2022 00:11:14.014][INFO ][org.hibernate.validator.internal.util.Version][background-preinit][21]HV000001: Hibernate Validator 6.2.0.Final
+[15-02-2022 00:11:14.014][INFO ][org.springframework.boot.StartupInfoLogger][restartedMain][55]Starting LoanApplication using Java 1.8.0_171 on Jayeshs-MacBook-Air.local with PID 41171 (/Users/jayeshjanyani/Desktop/Organisation/Checklyst Solutions/assignment/loan/target/classes started by jayeshjanyani in /Users/jayeshjanyani/Desktop/Organisation/Checklyst Solutions/assignment/loan)
+[15-02-2022 00:11:14.014][INFO ][org.springframework.boot.SpringApplication][restartedMain][637]No active profile set, falling back to default profiles: default
+[15-02-2022 00:11:17.017][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Initializing ProtocolHandler ["http-nio-8080"]
+[15-02-2022 00:11:17.017][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Starting service [Tomcat]
+[15-02-2022 00:11:17.017][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Starting Servlet engine: [Apache Tomcat/9.0.56]
+[15-02-2022 00:11:18.018][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Initializing Spring embedded WebApplicationContext
+[15-02-2022 00:11:18.018][INFO ][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-2][173]Initializing Spring DispatcherServlet 'dispatcherServlet'
+[15-02-2022 00:11:19.019][INFO ][org.hibernate.jpa.internal.util.LogHelper][restartedMain][31]HHH000204: Processing PersistenceUnitInfo [name: default]
+[15-02-2022 00:11:19.019][INFO ][org.hibernate.Version][restartedMain][44]HHH000412: Hibernate ORM core version 5.6.4.Final
+[15-02-2022 00:11:19.019][INFO ][org.hibernate.annotations.common.reflection.java.JavaReflectionManager][restartedMain][56]HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[15-02-2022 00:11:20.020][INFO ][com.zaxxer.hikari.HikariDataSource][restartedMain][110]HikariPool-1 - Starting...
+[15-02-2022 00:11:20.020][INFO ][com.zaxxer.hikari.HikariDataSource][restartedMain][123]HikariPool-1 - Start completed.
+[15-02-2022 00:11:20.020][INFO ][org.hibernate.dialect.Dialect][restartedMain][175]HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+[15-02-2022 00:11:21.021][INFO ][org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator][restartedMain][52]HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[15-02-2022 00:11:22.022][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Starting ProtocolHandler ["http-nio-8080"]
+[15-02-2022 00:11:22.022][INFO ][com.zaxxer.hikari.HikariDataSource][restartedMain][350]HikariPool-1 - Shutdown initiated...
+[15-02-2022 00:11:22.022][INFO ][com.zaxxer.hikari.HikariDataSource][restartedMain][352]HikariPool-1 - Shutdown completed.
+[15-02-2022 00:11:22.022][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Pausing ProtocolHandler ["http-nio-8080"]
+[15-02-2022 00:11:22.022][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Stopping service [Tomcat]
+[15-02-2022 00:11:22.022][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Stopping ProtocolHandler ["http-nio-8080"]
+[15-02-2022 00:11:22.022][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Destroying ProtocolHandler ["http-nio-8080"]
+[15-02-2022 00:11:22.022][ERROR][org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter][restartedMain][40]
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+[15-02-2022 00:11:37.037][INFO ][com.zaxxer.hikari.HikariDataSource][Thread-21][350]HikariPool-4 - Shutdown initiated...
+[15-02-2022 00:11:37.037][INFO ][com.zaxxer.hikari.HikariDataSource][Thread-21][352]HikariPool-4 - Shutdown completed.
+[15-02-2022 00:11:37.037][INFO ][org.springframework.boot.StartupInfoLogger][restartedMain][55]Starting LoanApplication using Java 1.8.0_171 on Jayeshs-MacBook-Air.local with PID 40960 (/Users/jayeshjanyani/Desktop/Organisation/Checklyst Solutions/assignment/loan/target/classes started by jayeshjanyani in /Users/jayeshjanyani/Desktop/Organisation/Checklyst Solutions/assignment/loan)
+[15-02-2022 00:11:37.037][INFO ][org.springframework.boot.SpringApplication][restartedMain][637]No active profile set, falling back to default profiles: default
+[15-02-2022 00:11:38.038][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Initializing ProtocolHandler ["http-nio-8080"]
+[15-02-2022 00:11:38.038][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Starting service [Tomcat]
+[15-02-2022 00:11:38.038][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Starting Servlet engine: [Apache Tomcat/9.0.56]
+[15-02-2022 00:11:38.038][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Initializing Spring embedded WebApplicationContext
+[15-02-2022 00:11:38.038][INFO ][org.hibernate.jpa.internal.util.LogHelper][restartedMain][31]HHH000204: Processing PersistenceUnitInfo [name: default]
+[15-02-2022 00:11:38.038][INFO ][com.zaxxer.hikari.HikariDataSource][restartedMain][110]HikariPool-5 - Starting...
+[15-02-2022 00:11:38.038][INFO ][com.zaxxer.hikari.HikariDataSource][restartedMain][123]HikariPool-5 - Start completed.
+[15-02-2022 00:11:38.038][INFO ][org.hibernate.dialect.Dialect][restartedMain][175]HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+[15-02-2022 00:11:38.038][INFO ][org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator][restartedMain][52]HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[15-02-2022 00:11:38.038][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Starting ProtocolHandler ["http-nio-8080"]
+[15-02-2022 00:11:38.038][INFO ][org.springframework.boot.StartupInfoLogger][restartedMain][61]Started LoanApplication in 1.003 seconds (JVM running for 228.428)
+[15-02-2022 00:11:38.038][INFO ][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-2][173]Initializing Spring DispatcherServlet 'dispatcherServlet'
+[15-02-2022 00:12:00.000][INFO ][com.zaxxer.hikari.HikariDataSource][Thread-25][350]HikariPool-5 - Shutdown initiated...
+[15-02-2022 00:12:00.000][INFO ][com.zaxxer.hikari.HikariDataSource][Thread-25][352]HikariPool-5 - Shutdown completed.
+[15-02-2022 00:12:00.000][INFO ][org.springframework.boot.StartupInfoLogger][restartedMain][55]Starting LoanApplication using Java 1.8.0_171 on Jayeshs-MacBook-Air.local with PID 40960 (/Users/jayeshjanyani/Desktop/Organisation/Checklyst Solutions/assignment/loan/target/classes started by jayeshjanyani in /Users/jayeshjanyani/Desktop/Organisation/Checklyst Solutions/assignment/loan)
+[15-02-2022 00:12:00.000][INFO ][org.springframework.boot.SpringApplication][restartedMain][637]No active profile set, falling back to default profiles: default
+[15-02-2022 00:12:01.001][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Initializing ProtocolHandler ["http-nio-8080"]
+[15-02-2022 00:12:01.001][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Starting service [Tomcat]
+[15-02-2022 00:12:01.001][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Starting Servlet engine: [Apache Tomcat/9.0.56]
+[15-02-2022 00:12:01.001][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Initializing Spring embedded WebApplicationContext
+[15-02-2022 00:12:01.001][INFO ][org.hibernate.jpa.internal.util.LogHelper][restartedMain][31]HHH000204: Processing PersistenceUnitInfo [name: default]
+[15-02-2022 00:12:01.001][INFO ][com.zaxxer.hikari.HikariDataSource][restartedMain][110]HikariPool-6 - Starting...
+[15-02-2022 00:12:01.001][INFO ][com.zaxxer.hikari.HikariDataSource][restartedMain][123]HikariPool-6 - Start completed.
+[15-02-2022 00:12:01.001][INFO ][org.hibernate.dialect.Dialect][restartedMain][175]HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+[15-02-2022 00:12:01.001][INFO ][org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator][restartedMain][52]HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[15-02-2022 00:12:01.001][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Starting ProtocolHandler ["http-nio-8080"]
+[15-02-2022 00:12:01.001][INFO ][org.springframework.boot.StartupInfoLogger][restartedMain][61]Started LoanApplication in 1.064 seconds (JVM running for 251.442)
+[15-02-2022 00:12:07.007][INFO ][org.apache.juli.logging.DirectJDKLog][http-nio-8080-exec-1][173]Initializing Spring DispatcherServlet 'dispatcherServlet'
+[15-02-2022 00:12:11.011][DEBUG][org.hibernate.engine.jdbc.spi.SqlStatementLogger][http-nio-8080-exec-1][144]select next_val as id_val from userid_sequence for update
+[15-02-2022 00:12:11.011][DEBUG][org.hibernate.engine.jdbc.spi.SqlStatementLogger][http-nio-8080-exec-1][144]update userid_sequence set next_val= ? where next_val=?
+[15-02-2022 00:12:12.012][ERROR][com.loan.main.data.impl.UserDataTransformationImpl][http-nio-8080-exec-1][53]UserDataTransformationImpl:following error occurred in the createUserT() function :
+org.springframework.transaction.TransactionSystemException: Could not commit JPA transaction; nested exception is javax.persistence.RollbackException: Error while committing the transaction
+	at org.springframework.orm.jpa.JpaTransactionManager.doCommit(JpaTransactionManager.java:571)
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.processCommit(AbstractPlatformTransactionManager.java:743)
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.commit(AbstractPlatformTransactionManager.java:711)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.commitTransactionAfterReturning(TransactionAspectSupport.java:654)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:407)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:137)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:174)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:215)
+	at com.sun.proxy.$Proxy158.save(Unknown Source)
+	at com.loan.main.data.impl.UserDataTransformationImpl.createUserT(UserDataTransformationImpl.java:49)
+	at com.loan.main.data.impl.UserDataTransformationImpl.userDataRequestTransform(UserDataTransformationImpl.java:31)
+	at com.loan.main.service.impl.UserServiceImpl.addUser(UserServiceImpl.java:28)
+	at com.loan.main.controller.UserController.addUser(UserController.java:29)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:895)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1732)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: javax.persistence.RollbackException: Error while committing the transaction
+	at org.hibernate.internal.ExceptionConverterImpl.convertCommitException(ExceptionConverterImpl.java:81)
+	at org.hibernate.engine.transaction.internal.TransactionImpl.commit(TransactionImpl.java:104)
+	at org.springframework.orm.jpa.JpaTransactionManager.doCommit(JpaTransactionManager.java:562)
+	... 68 common frames omitted
+Caused by: javax.validation.ConstraintViolationException: Validation failed for classes [com.loan.main.model.UserT] during persist time for groups [javax.validation.groups.Default, ]
+List of constraint violations:[
+	ConstraintViolationImpl{interpolatedMessage='must not be null', propertyPath=mobile, rootBeanClass=class com.loan.main.model.UserT, messageTemplate='{javax.validation.constraints.NotNull.message}'}
+]
+	at org.hibernate.cfg.beanvalidation.BeanValidationEventListener.validate(BeanValidationEventListener.java:140)
+	at org.hibernate.cfg.beanvalidation.BeanValidationEventListener.onPreInsert(BeanValidationEventListener.java:80)
+	at org.hibernate.action.internal.EntityInsertAction.preInsert(EntityInsertAction.java:214)
+	at org.hibernate.action.internal.EntityInsertAction.execute(EntityInsertAction.java:100)
+	at org.hibernate.engine.spi.ActionQueue.executeActions(ActionQueue.java:604)
+	at org.hibernate.engine.spi.ActionQueue.lambda$executeActions$1(ActionQueue.java:478)
+	at java.util.LinkedHashMap.forEach(LinkedHashMap.java:684)
+	at org.hibernate.engine.spi.ActionQueue.executeActions(ActionQueue.java:475)
+	at org.hibernate.event.internal.AbstractFlushingEventListener.performExecutions(AbstractFlushingEventListener.java:344)
+	at org.hibernate.event.internal.DefaultFlushEventListener.onFlush(DefaultFlushEventListener.java:40)
+	at org.hibernate.event.service.internal.EventListenerGroupImpl.fireEventOnEachListener(EventListenerGroupImpl.java:107)
+	at org.hibernate.internal.SessionImpl.doFlush(SessionImpl.java:1402)
+	at org.hibernate.internal.SessionImpl.managedFlush(SessionImpl.java:493)
+	at org.hibernate.internal.SessionImpl.flushBeforeTransactionCompletion(SessionImpl.java:3285)
+	at org.hibernate.internal.SessionImpl.beforeTransactionCompletion(SessionImpl.java:2420)
+	at org.hibernate.engine.jdbc.internal.JdbcCoordinatorImpl.beforeTransactionCompletion(JdbcCoordinatorImpl.java:449)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl.beforeCompletionCallback(JdbcResourceLocalTransactionCoordinatorImpl.java:183)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl.access$300(JdbcResourceLocalTransactionCoordinatorImpl.java:40)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl$TransactionDriverControlImpl.commit(JdbcResourceLocalTransactionCoordinatorImpl.java:281)
+	at org.hibernate.engine.transaction.internal.TransactionImpl.commit(TransactionImpl.java:101)
+	... 69 common frames omitted
+[15-02-2022 00:15:41.041][DEBUG][org.hibernate.engine.jdbc.spi.SqlStatementLogger][http-nio-8080-exec-5][144]select next_val as id_val from userid_sequence for update
+[15-02-2022 00:15:41.041][DEBUG][org.hibernate.engine.jdbc.spi.SqlStatementLogger][http-nio-8080-exec-5][144]update userid_sequence set next_val= ? where next_val=?
+[15-02-2022 00:15:41.041][DEBUG][org.hibernate.engine.jdbc.spi.SqlStatementLogger][http-nio-8080-exec-5][144]insert into sys_user_t (city, dob, email, fname, gender, lname, mobile, status, user_id) values (?, ?, ?, ?, ?, ?, ?, ?, ?)
+[15-02-2022 00:32:29.029][INFO ][org.springframework.boot.StartupInfoLogger][restartedMain][55]Starting LoanApplication using Java 1.8.0_171 on Jayeshs-MacBook-Air.local with PID 40960 (/Users/jayeshjanyani/Desktop/Organisation/Checklyst Solutions/assignment/loan/target/classes started by jayeshjanyani in /Users/jayeshjanyani/Desktop/Organisation/Checklyst Solutions/assignment/loan)
+[15-02-2022 00:32:29.029][INFO ][org.springframework.boot.SpringApplication][restartedMain][637]No active profile set, falling back to default profiles: default
+[15-02-2022 00:32:29.029][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Starting service [Tomcat]
+[15-02-2022 00:32:29.029][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Starting Servlet engine: [Apache Tomcat/9.0.56]
+[15-02-2022 00:32:29.029][INFO ][org.apache.juli.logging.DirectJDKLog][restartedMain][173]Initializing Spring embedded WebApplicationContext
+[15-02-2022 00:32:29.029][INFO ][org.hibernate.jpa.internal.util.LogHelper][restartedMain][31]HHH000204: Processing PersistenceUnitInfo [name: default]
+[15-02-2022 00:32:29.029][INFO ][com.zaxxer.hikari.HikariDataSource][restartedMain][110]HikariPool-9 - Starting...
+[15-02-2022 00:32:29.029][INFO ][com.zaxxer.hikari.HikariDataSource][restartedMain][123]HikariPool-9 - Start completed.
+[15-02-2022 00:32:29.029][INFO ][org.hibernate.dialect.Dialect][restartedMain][175]HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+[15-02-2022 00:32:29.029][INFO ][org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator][restartedMain][52]HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[15-02-2022 00:32:30.030][INFO ][org.springframework.boot.StartupInfoLogger][restartedMain][61]Started LoanApplication in 0.744 seconds (JVM running for 1479.93)
